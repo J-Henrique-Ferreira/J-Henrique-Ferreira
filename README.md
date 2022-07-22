@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-Henrique-Ferreira
-- 👀 I’m interested in: HTML5, CSS3 e Java Script 
+- 👀 I’m interested in: Java Script 
 - 🌱 I’m currently learning frontEnd
 - 📫 How to reach me: (joaof6418@gmail.com || https://www.instagram.com/joaof6418/)
 
