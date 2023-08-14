@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @J-Henrique-Ferreira
-- 👀 I’m interested in: Java Script, React, typeScript, nodeJS and mysql
-- 🌱 I’m currently learnir React
+Olá, eu estou trabalhando com ReactJS, estudando NodeJS e desenvolvendo um Blog pessoal.
