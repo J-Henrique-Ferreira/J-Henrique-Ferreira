@@ -1,1 +1,9 @@
-Olá, eu estou estudando PHP8, mvc e mysql, conheço ReactJS, NodeJS ambos com typescript!
+Olá, eu gosto de programar e estou cursando Engenharia de Sofware!!
+
+- Conheço ReactJS e NodeJS, ambos com typescript!
+- Estou estudando PHP8 e mvc com o banco de dados mysql
+
+-  Estou me dedicando exclusivamente as segintes tecnologias:
+  _ ***PHP 8***.
+  _ ***MYSQL***.
+  _ ***Laravel***.
