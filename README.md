@@ -1,1 +1,1 @@
-Olá, eu estou trabalhando com ReactJS, estudando NodeJS e desenvolvendo um Blog pessoal.
+Olá, eu estou estudando PHP8, mvc e mysql, conheço ReactJS, NodeJS ambos com typescript!
