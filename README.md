@@ -4,6 +4,6 @@ Olá, eu gosto de programar e estou cursando Engenharia de Sofware!!
 - Estou estudando PHP8 e mvc com o banco de dados mysql
 
 -  Estou me dedicando exclusivamente as segintes tecnologias:
-  _ ***PHP 8***.
-  _ ***MYSQL***.
-  _ ***Laravel***.
+  > ***PHP 8***,
+  > ***MYSQL***,
+  > ***Laravel***,
