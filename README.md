@@ -5,5 +5,4 @@ Olá, eu gosto de programar e estou cursando Engenharia de Sofware!!
 
 -  Estou me dedicando exclusivamente as segintes tecnologias:
   > ***PHP 8***,
-  > ***MYSQL***,
-  > ***Laravel***,
+  > ***MYSQL***
