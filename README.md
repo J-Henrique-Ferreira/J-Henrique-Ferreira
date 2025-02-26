@@ -1,2 +1,3 @@
 NextJS, React, Tailwind
-Node, Laravel
+Node, PHP, Laravel
+
