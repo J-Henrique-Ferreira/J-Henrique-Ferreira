@@ -1,3 +1,4 @@
+Laravel, PHP, Node, Mysql
 NextJS, React, Tailwind
-Node, PHP, Laravel
+
 
